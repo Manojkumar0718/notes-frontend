@@ -1,0 +1,49 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only javascript",
+      "important": true
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "id": "4",
+      "content": "Learn React",
+      "important": true
+    },
+    {
+      "id": "9e9e",
+      "content": "Learn HTML",
+      "important": false
+    },
+    {
+      "id": "49e8",
+      "content": "Learn CSS",
+      "important": false
+    },
+    {
+      "id": "0a2f",
+      "content": "Learn Node Js",
+      "important": true
+    },
+    {
+      "id": "afb1",
+      "content": "Learn Express Js",
+      "important": true
+    },
+    {
+      "id": "3512",
+      "content": "Learn Python",
+      "important": false
+    }
+  ]
+}
